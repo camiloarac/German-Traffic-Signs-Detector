@@ -1,0 +1,1 @@
+This file specifies the libraries for image processing used to develop the tasks
