@@ -1,1 +1,1 @@
-This folder stores the model developed for Task 3
+This folder stores the model developed for task 3
